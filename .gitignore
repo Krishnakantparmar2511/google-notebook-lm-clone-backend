@@ -64,5 +64,4 @@ Thumbs.db
 .yarn-integrity
 
 # Build files
-/dist
 /build
